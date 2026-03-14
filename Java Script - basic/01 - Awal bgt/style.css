@@ -1,0 +1,5 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em; /* mengkalikan ukuran induk "2*16px" */
+    /* font-size: 2px; */ 
+}
